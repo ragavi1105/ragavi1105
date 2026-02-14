@@ -6,7 +6,7 @@
 
 👯 Open to collaborating on AI applications, frontend projects, minor projects.
 
-💬 Ask me about HTML, CSS, JavaScript, React, Python.
+💬 Ask me about HTML, CSS, JavaScript, React.
 
 📫 Reach me at: sragavi999@gmail.com
 
